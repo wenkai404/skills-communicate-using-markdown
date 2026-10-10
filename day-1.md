@@ -22,3 +22,20 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 - [ ] check out the [Bilibili](https://www.bilibili.com) for learn me.
+
+```bash
+dajsiod
+djasiod
+```
+
+
+
+```c++
+#include "iostream"
+using namespace std
+	int main()
+{
+    cout << "Hello world!" << endl;
+}
+```
+
